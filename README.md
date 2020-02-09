@@ -1,5 +1,5 @@
 # TollFreeForwardingPeakHourReport
-Generates a pivot table from https://tollfreeforwarding.com/ call records that shows the peak hours of calls by making use of the API calls available at https://tollfreeforwarding.com/API
+A PowerShell script to generates a pivot table from https://tollfreeforwarding.com/ call records that shows the peak hours of calls by making use of the API calls available at https://tollfreeforwarding.com/API
 
 The GUI is created with the help of PowerShell Pro Tools, more info available at https://ironmansoftware.com/powershell-pro-tools/
 
