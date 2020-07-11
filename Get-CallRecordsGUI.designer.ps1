@@ -57,7 +57,6 @@ $From.Size = (New-Object -TypeName System.Drawing.Size -ArgumentList @([System.I
 $From.TabIndex = [System.Int32]2
 $From.Text = [System.String]'From'
 $From.UseCompatibleTextRendering = $true
-$From.add_Click($Label1_Click)
 #
 #ButtonRun
 #
@@ -85,7 +84,6 @@ $TBUsername.Location = (New-Object -TypeName System.Drawing.Point -ArgumentList 
 $TBUsername.Name = [System.String]'TBUsername'
 $TBUsername.Size = (New-Object -TypeName System.Drawing.Size -ArgumentList @([System.Int32]208,[System.Int32]21))
 $TBUsername.TabIndex = [System.Int32]5
-$TBUsername.add_TextChanged($TBUsername_TextChanged)
 #
 #MTBPassword
 #
@@ -112,7 +110,6 @@ $LabelPassword.Size = (New-Object -TypeName System.Drawing.Size -ArgumentList @(
 $LabelPassword.TabIndex = [System.Int32]8
 $LabelPassword.Text = [System.String]'Password'
 $LabelPassword.UseCompatibleTextRendering = $true
-$LabelPassword.add_Click($LabelPassword_Click)
 #
 #NUDDNIS
 #

@@ -1,9 +1,3 @@
-$LabelPassword_Click = {
-}
-$TBUsername_TextChanged = {
-}
-$Label1_Click = {
-}
 Import-Module ImportExcel
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
 
